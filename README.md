@@ -17,24 +17,6 @@ Self teaching Computer Science Knowledge
 3. [TODO]interview bagu
 
 ### Textbooks / Courses
-<style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      border: 1px solid #dddddd;
-      text-align: left;
-      padding: 8px;
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
-
-
 <h2>Sources</h2>
 <table>
   <tr>
