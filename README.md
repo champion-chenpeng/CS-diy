@@ -1,2 +1,2 @@
-# CS-diy
+# csdiy
 Self teaching Computer Science Knowledge
