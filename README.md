@@ -17,7 +17,7 @@ Self teaching Computer Science Knowledge
 3. [TODO]interview bagu
 
 ### Textbooks / Courses
-<h2>Sources</h2>
+<h4>Sources</h4>
 <table>
   <tr>
     <th>Course/Project</th>
@@ -33,7 +33,7 @@ Self teaching Computer Science Knowledge
   </tr>
 </table>
 
-<h2>Process</h2>
+<h4>Process</h4>
 <table>
 <tr>
     <th>Area</th>
