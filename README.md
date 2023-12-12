@@ -5,6 +5,53 @@ Self teaching Computer Science Knowledge
 [Knowledge Tree](Knowledge_Tree.md)
 
 ## Plan
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xogg"><span style="color:#000">Quarter</span></th>
+    <th class="tg-xogg"><span style="color:#000">Winter</span></th>
+    <th class="tg-xogg"><span style="color:#000">Spring</span></th>
+    <th class="tg-xogg"><span style="color:#000">Summer</span></th>
+    <th class="tg-xogg"><span style="color:#000">Fall</span></th>
+    <th class="tg-xogg"><span style="color:#000">25 Winter</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-jaco"><span style="color:#000">Course</span></td>
+    <td class="tg-lboi"><span style="color:#000">3~4 course:Arch, OS, Network,</span> </td>
+    <td class="tg-lboi" colspan="2"><span style="color:#000">Selective</span></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-jaco"><span style="color:#000">Project</span></td>
+    <td class="tg-lboi"><span style="color:#000">Follow other</span></td>
+    <td class="tg-lboi" colspan="4"><span style="color:#000">Leading</span></td>
+  </tr>
+  <tr>
+    <td class="tg-jaco"><span style="color:#000">Intern</span></td>
+    <td class="tg-lboi" colspan="2"><span style="color:#000">Interview + Interview Exp</span></td>
+    <td class="tg-lboi"><span style="color:#000">Intern in CN or USA</span></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-y93n"><span style="color:#000">NG</span></td>
+    <td class="tg-cly1"></td>
+    <td class="tg-cly1" colspan="2"><span style="color:#000">Connection</span></td>
+    <td class="tg-cly1" colspan="2"><span style="color:#000">Interview + Interview Exp</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y93n"><span style="color:#000">Leetcode</span></td>
+    <td class="tg-mwxe"><span style="color:#000">100</span></td>
+    <td class="tg-mwxe"><span style="color:#000">50</span></td>
+    <td class="tg-mwxe"><span style="color:#000">100</span></td>
+    <td class="tg-mwxe"><span style="color:#000">50</span></td>
+    <td class="tg-cly1"></td>
+  </tr>
+</tbody>
+</table>
 
 ### Source Code / Documents
 #### Web 
@@ -58,7 +105,7 @@ Self teaching Computer Science Knowledge
 
 <tr>
     <th rowspan="1">Network</th>
-    <td><a href="https://cs144.github.io">Stanford CS144</a></td>
+    <td><a href="https://cs144.github.io">Stanford CS144</a><br /><a href="https://kiprey.github.io/2021/11/cs144-lab0/">notes</a></td>
     <td>0/?</td>
 </tr>
 
