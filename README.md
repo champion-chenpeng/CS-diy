@@ -114,7 +114,16 @@ Self teaching Computer Science Knowledge
     <td><a href="https://15445.courses.cs.cmu.edu/fall2020/">CMU 15-445/645</a></td>
     <td>0/?</td>
 </tr>
-
+<tr>
+    <th rowspan="1">DS&Alg</th>
+    <td><a href="https://sp23.datastructur.es">DS</a></td>
+    <td>0/?</td>
+</tr>
+<tr>
+    <th rowspan="1">Software Engineering</th>
+    <td><a href="https://web.mit.edu/6.031/www/sp23/">Software Conctructure</a></td>
+    <td>0/?</td>
+</tr>
 <tr>
     <th rowspan="1">Programming Language - C/C++</th>
     <td><a href="https://www.oreilly.com/library/view/c-primer-fifth/9780133053043/">C++ Primer</a></td>
