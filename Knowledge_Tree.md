@@ -34,7 +34,7 @@ A good knowledge system is both succinct and reliable. Judging learning resource
    - Textbooks/Courses
      - Pros: Offers a tree structure.
      - Cons: May lack real-world application.
-![Knowledge Priority](Knowledge_Source.png "Knowledge Priority")
+![Knowledge Priority](Knowledge_source.png "Knowledge Priority")
 ## Application of Knowledge
 
 Storage involves direct or pointer methods, with consideration for the limited memory size. Utilization is through edges, defining how applications are generated from knowledge. Knowledge is crucial for debugging, emphasizing the need for a robust knowledge system.
