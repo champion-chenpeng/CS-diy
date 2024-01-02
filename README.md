@@ -44,7 +44,7 @@ Self teaching Computer Science Knowledge
   </tr>
   <tr>
     <td class="tg-y93n"><span style="color:#000">Leetcode</span></td>
-    <td class="tg-mwxe"><span style="color:#000">100</span></td>
+    <td class="tg-mwxe"><span style="color:#000">DS&Alg + 100</span></td>
     <td class="tg-mwxe"><span style="color:#000">50</span></td>
     <td class="tg-mwxe"><span style="color:#000">100</span></td>
     <td class="tg-mwxe"><span style="color:#000">50</span></td>
@@ -90,11 +90,11 @@ Self teaching Computer Science Knowledge
 <tr>
     <th rowspan="2">Architecture / System</th>
     <td><a href="https://www.nand2tetris.org">nand2tetris</a></td>
-    <td>10/13</td>
+    <td>12/12</td>
 </tr>
 <tr>
     <td><a href="https://csapp.cs.cmu.edu/3e/home.html">CSAPP</a></td>
-    <td>0/?</td>
+    <td>1/8</td>
 </tr>
 
 <tr>
