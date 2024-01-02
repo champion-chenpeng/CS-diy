@@ -89,18 +89,23 @@ Self teaching Computer Science Knowledge
 </tr>
 <tr>
     <th rowspan="2">Architecture / System</th>
-    <td><a href="https://www.nand2tetris.org">nand2tetris</a></td>
+    <td><a href="https://www.nand2tetris.org">nand2tetris(40h+)</a></td>
     <td>12/12</td>
 </tr>
 <tr>
-    <td><a href="https://csapp.cs.cmu.edu/3e/home.html">CSAPP</a></td>
+    <td><a href="https://csapp.cs.cmu.edu/3e/home.html">CSAPP(C, 150h+)</a></td>
     <td>1/8</td>
 </tr>
 
 <tr>
-    <th rowspan="1">OS</th>
-    <td><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a></td>
+    <th rowspan="2">OS</th>
+	<td><a href="https://cs162.org">UCB CS162(C, 200h+)</a></td>
     <td>0/?</td>
+</tr>
+
+<tr>
+    <td><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a></td>
+	<td>0/?</td>
 </tr>
 
 <tr>
@@ -110,10 +115,13 @@ Self teaching Computer Science Knowledge
 </tr>
 
 <tr>
-    <th rowspan="1">Database</th>
-    <td><a href="https://15445.courses.cs.cmu.edu/fall2020/">CMU 15-445/645</a></td>
+    <th rowspan="2">Database</th>
+	<td><a href="https://cs186berkeley.net">UCB CS186(Java)</a></td>
     <td>0/?</td>
 </tr>
+<tr>
+    <td><a href="https://15445.courses.cs.cmu.edu/fall2020/">CMU 15-445/645(C++)</a></td>
+	<td>0/?</td>
 <tr>
     <th rowspan="1">DS&Alg</th>
     <td><a href="https://sp23.datastructur.es">DS</a></td>
