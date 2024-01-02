@@ -89,7 +89,7 @@ Self teaching Computer Science Knowledge
 </tr>
 <tr>
     <th rowspan="2">Architecture / System</th>
-    <td><a href="https://www.nand2tetris.org">nand2tetris(40h+)</a></td>
+    <td><a href="https://www.nand2tetris.org">:white_check_mark: nand2tetris(40h+)</a></td>
     <td>12/12</td>
 </tr>
 <tr>
