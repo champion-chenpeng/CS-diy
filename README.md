@@ -98,14 +98,17 @@ Self teaching Computer Science Knowledge
 </tr>
 
 <tr>
-    <th rowspan="2">OS</th>
-	<td><a href="https://cs162.org">UCB CS162(C, 200h+)</a></td>
+    <th rowspan="3">OS</th>
+    <td><a href="https://pdos.csail.mit.edu/6.828/2021/schedule.html">MIT 6.S081(C, 150h)</a></td>
+    <td>0/11</td>
+</tr>
+<tr>
+    <td><a href="https://cs162.org">UCB CS162(C, 200h+)</a></td>
     <td>0/?</td>
 </tr>
-
 <tr>
     <td><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a></td>
-	<td>0/?</td>
+    <td>0/?</td>
 </tr>
 
 <tr>
