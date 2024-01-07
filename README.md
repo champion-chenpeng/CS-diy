@@ -99,13 +99,15 @@ Self teaching Computer Science Knowledge
 
 <tr>
     <th rowspan="3">OS</th>
-    <td><a href="https://pdos.csail.mit.edu/6.828/2021/schedule.html">MIT 6.S081(C, 150h)</a></td>
+	<td><a href="https://pdos.csail.mit.edu/6.828/2021/schedule.html">MIT 6.828</a></td>
     <td>0/11</td>
 </tr>
+
+
 <tr>
     <td><a href="https://cs162.org">UCB CS162(C, 200h+)</a></td>
-    <td>0/?</td>
-</tr>
+	<td>0/4</td>
+<tr>
 <tr>
     <td><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a></td>
     <td>0/?</td>
@@ -120,11 +122,11 @@ Self teaching Computer Science Knowledge
 <tr>
     <th rowspan="2">Database</th>
 	<td><a href="https://cs186berkeley.net">UCB CS186(Java)</a></td>
-    <td>0/?</td>
+    <td>0/6</td>
 </tr>
 <tr>
     <td><a href="https://15445.courses.cs.cmu.edu/fall2020/">CMU 15-445/645(C++)</a></td>
-	<td>0/?</td>
+	<td>0/4</td>
 <tr>
     <th rowspan="1">DS&Alg</th>
     <td><a href="https://sp23.datastructur.es">DS</a></td>
